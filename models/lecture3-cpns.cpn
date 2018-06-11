@@ -234,7 +234,7 @@ end</layout>
       </place>
       <place id="ID1429597939">
         <posattr x="157.000000"
-                 y="84.000000"/>
+                 y="63.000000"/>
         <fillattr colour="White"
                   pattern=""
                   filled="false"/>
@@ -248,16 +248,16 @@ end</layout>
                  h="40.000000"/>
         <token x="-102.200000"
                y="16.000000"/>
-        <marking x="-14.000000"
-                 y="13.000000"
+        <marking x="16.800000"
+                 y="14.600000"
                  hidden="false">
-          <snap snap_id="3"
-                anchor.horizontal="2"
+          <snap snap_id="0"
+                anchor.horizontal="3"
                 anchor.vertical="2"/>
         </marking>
         <type id="ID1429597940">
           <posattr x="157.000000"
-                   y="53.000000"/>
+                   y="32.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -271,7 +271,7 @@ end</layout>
         </type>
         <initmark id="ID1429939720">
           <posattr x="227.000000"
-                   y="107.000000"/>
+                   y="86.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -389,8 +389,8 @@ end</layout>
         </initmark>
       </place>
       <place id="ID1591819247">
-        <posattr x="-262.750000"
-                 y="84.000000"/>
+        <posattr x="-262.000000"
+                 y="63.000000"/>
         <fillattr colour="White"
                   pattern=""
                   filled="false"/>
@@ -403,8 +403,8 @@ end</layout>
 Votes</text>
         <ellipse w="142.000000"
                  h="48.000000"/>
-        <token x="-10.000000"
-               y="0.000000"/>
+        <token x="-31.000000"
+               y="19.000000"/>
         <marking x="0.000000"
                  y="0.000000"
                  hidden="false">
@@ -413,8 +413,8 @@ Votes</text>
                 anchor.vertical="0"/>
         </marking>
         <type id="ID1591819248">
-          <posattr x="-194.000000"
-                   y="57.000000"/>
+          <posattr x="-193.000000"
+                   y="36.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -427,8 +427,8 @@ Votes</text>
                 version="4.0.1">UNIT</text>
         </type>
         <initmark id="ID1591819249">
-          <posattr x="-177.000000"
-                   y="110.000000"/>
+          <posattr x="-176.000000"
+                   y="89.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -654,8 +654,8 @@ Decision</text>
         </initmark>
       </place>
       <place id="ID1591820137">
-        <posattr x="-45.400000"
-                 y="-31.000000"/>
+        <posattr x="-45.000000"
+                 y="-52.000000"/>
         <fillattr colour="White"
                   pattern=""
                   filled="false"/>
@@ -678,7 +678,7 @@ Decision</text>
         </marking>
         <type id="ID1591820138">
           <posattr x="42.500000"
-                   y="-54.000000"/>
+                   y="-75.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -692,7 +692,7 @@ Decision</text>
         </type>
         <initmark id="ID1591820139">
           <posattr x="3.000000"
-                   y="-7.000000"/>
+                   y="-28.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1007,7 +1007,7 @@ Decision</text>
       <trans id="ID1591820109"
              explicit="false">
         <posattr x="-262.000000"
-                 y="-31.000000"/>
+                 y="-52.000000"/>
         <fillattr colour="White"
                   pattern=""
                   filled="false"/>
@@ -1024,7 +1024,7 @@ Collected</text>
                  y="-3.000000"/>
         <cond id="ID1591820110">
           <posattr x="-323.500000"
-                   y="-65.000000"/>
+                   y="-86.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1038,7 +1038,7 @@ Collected</text>
         </cond>
         <time id="ID1591820111">
           <posattr x="-181.500000"
-                   y="0.000000"/>
+                   y="-21.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1052,7 +1052,7 @@ Collected</text>
         </time>
         <code id="ID1591820112">
           <posattr x="-161.500000"
-                   y="-83.000000"/>
+                   y="-104.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1066,7 +1066,7 @@ Collected</text>
         </code>
         <priority id="ID1591820114">
           <posattr x="-366.000000"
-                   y="-62.000000"/>
+                   y="-83.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1081,8 +1081,8 @@ Collected</text>
       </trans>
       <trans id="ID1591820115"
              explicit="false">
-        <posattr x="-45.400000"
-                 y="84.000000"/>
+        <posattr x="-45.000000"
+                 y="63.000000"/>
         <fillattr colour="White"
                   pattern=""
                   filled="false"/>
@@ -1098,8 +1098,8 @@ OneVote</text>
         <binding x="7.200000"
                  y="-3.000000"/>
         <cond id="ID1591820116">
-          <posattr x="-107.400000"
-                   y="115.000000"/>
+          <posattr x="-107.000000"
+                   y="94.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1112,8 +1112,8 @@ OneVote</text>
                 version="4.0.1"/>
         </cond>
         <time id="ID1591820117">
-          <posattr x="22.100000"
-                   y="115.000000"/>
+          <posattr x="22.500000"
+                   y="94.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1126,8 +1126,8 @@ OneVote</text>
                 version="4.0.1"/>
         </time>
         <code id="ID1591820118">
-          <posattr x="42.100000"
-                   y="32.000000"/>
+          <posattr x="42.500000"
+                   y="11.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1140,8 +1140,8 @@ OneVote</text>
                 version="4.0.1"/>
         </code>
         <priority id="ID1591820120">
-          <posattr x="-136.400000"
-                   y="53.000000"/>
+          <posattr x="-136.000000"
+                   y="32.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1171,9 +1171,9 @@ OneVote</text>
                    currentcyckle="2"/>
         <transend idref="ID1591819228"/>
         <placeend idref="ID1591819253"/>
-        <annot id="ID1591834706">
-          <posattr x="-158.000000"
-                   y="124.000000"/>
+        <annot id="ID1592137838">
+          <posattr x="-245.000000"
+                   y="213.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1203,9 +1203,9 @@ OneVote</text>
                    currentcyckle="2"/>
         <transend idref="ID1591819228"/>
         <placeend idref="ID1591819247"/>
-        <annot id="ID1591834707">
-          <posattr x="-158.000000"
-                   y="44.000000"/>
+        <annot id="ID1592137839">
+          <posattr x="-245.000000"
+                   y="133.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1287,9 +1287,9 @@ OneVote</text>
           <textattr colour="Black"
                     bold="false"/>
         </bendpoint>
-        <annot id="ID1591834708">
-          <posattr x="-194.000000"
-                   y="-419.000000"/>
+        <annot id="ID1592137840">
+          <posattr x="-281.000000"
+                   y="-331.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1395,7 +1395,7 @@ OneVote</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="4.0.1">ms_to_list workers</text>
+                version="4.0.1">list_to_ms workers</text>
         </annot>
       </arc>
       <arc id="ID1591819632"
@@ -1703,8 +1703,8 @@ else empty</text>
         <transend idref="ID1591819598"/>
         <placeend idref="ID1429597939"/>
         <annot id="ID1591819734">
-          <posattr x="287.500000"
-                   y="143.000000"/>
+          <posattr x="290.500000"
+                   y="134.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1800,7 +1800,7 @@ else empty</text>
         <placeend idref="ID1591820137"/>
         <annot id="ID1591820148">
           <posattr x="-142.000000"
-                   y="-50.000000"/>
+                   y="-71.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1832,8 +1832,8 @@ else empty</text>
         <placeend idref="ID1591820137"/>
         <bendpoint id="ID1591820155"
                    serial="1">
-          <posattr x="-63.250000"
-                   y="0.000000"/>
+          <posattr x="-63.000000"
+                   y="-21.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1845,7 +1845,7 @@ else empty</text>
         </bendpoint>
         <annot id="ID1591820154">
           <posattr x="-84.500000"
-                   y="25.000000"/>
+                   y="4.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1877,7 +1877,7 @@ else empty</text>
         <placeend idref="ID1591820137"/>
         <annot id="ID1591820157">
           <posattr x="-139.000000"
-                   y="-14.000000"/>
+                   y="-35.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1909,8 +1909,8 @@ else empty</text>
         <placeend idref="ID1591820137"/>
         <bendpoint id="ID1591820160"
                    serial="1">
-          <posattr x="-29.500000"
-                   y="42.000000"/>
+          <posattr x="-29.000000"
+                   y="21.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1922,7 +1922,7 @@ else empty</text>
         </bendpoint>
         <annot id="ID1591820159">
           <posattr x="53.500000"
-                   y="24.000000"/>
+                   y="3.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1954,7 +1954,7 @@ else empty</text>
         <placeend idref="ID1591819250"/>
         <annot id="ID1591820228">
           <posattr x="-201.000000"
-                   y="-115.000000"/>
+                   y="-124.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1984,9 +1984,9 @@ else empty</text>
                    currentcyckle="2"/>
         <transend idref="ID1591820109"/>
         <placeend idref="ID1591819247"/>
-        <annot id="ID1591834709">
-          <posattr x="-159.000000"
-                   y="-4.000000"/>
+        <annot id="ID1592137841">
+          <posattr x="-244.000000"
+                   y="25.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -2016,9 +2016,9 @@ else empty</text>
                    currentcyckle="2"/>
         <transend idref="ID1591820115"/>
         <placeend idref="ID1591819247"/>
-        <annot id="ID1591834710">
-          <posattr x="-100.000000"
-                   y="65.000000"/>
+        <annot id="ID1592137842">
+          <posattr x="-145.000000"
+                   y="95.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -2062,8 +2062,8 @@ else empty</text>
                     bold="false"/>
         </bendpoint>
         <annot id="ID1591820249">
-          <posattr x="-18.000000"
-                   y="-94.000000"/>
+          <posattr x="8.000000"
+                   y="-115.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -2094,8 +2094,8 @@ else empty</text>
         <transend idref="ID1591820115"/>
         <placeend idref="ID1429597939"/>
         <annot id="ID1591820257">
-          <posattr x="33.000000"
-                   y="139.000000"/>
+          <posattr x="60.000000"
+                   y="74.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -2111,14 +2111,12 @@ else empty</text>
       <constraints/>
       <vguideline id="ID1591839396"
                   x="-262.750000">
-        <guideline_elm idref="ID1591819247"/>
         <guideline_elm idref="ID1591819250"/>
         <guideline_elm idref="ID1591819253"/>
         <guideline_elm idref="ID1591819228"/>
         <guideline_elm idref="ID1591819234"/>
-        <guideline_elm idref="ID1591819278"/>
-        <guideline_elm idref="ID1591819281"/>
         <guideline_elm idref="ID1591820109"/>
+        <guideline_elm idref="ID1591819247"/>
       </vguideline>
       <group id="ID1591819364"
              name="Coordinator">
@@ -2137,7 +2135,6 @@ else empty</text>
         <group_elm idref="ID1591819282"/>
         <group_elm idref="ID1591820109"/>
         <group_elm idref="ID1591820112"/>
-        <group_elm idref="ID1591834695"/>
         <group_elm idref="ID1591820114"/>
         <group_elm idref="ID1591820110"/>
         <group_elm idref="ID1591820111"/>
@@ -2147,12 +2144,47 @@ else empty</text>
         <group_elm idref="ID1591834709"/>
         <group_elm idref="ID1591820115"/>
         <group_elm idref="ID1591820118"/>
-        <group_elm idref="ID1591834696"/>
         <group_elm idref="ID1591820120"/>
         <group_elm idref="ID1591820116"/>
         <group_elm idref="ID1591820117"/>
         <group_elm idref="ID1591820239"/>
         <group_elm idref="ID1591834710"/>
+        <group_elm idref="ID1591820137"/>
+        <group_elm idref="ID1591820138"/>
+        <group_elm idref="ID1591820139"/>
+        <group_elm idref="ID1591820147"/>
+        <group_elm idref="ID1591820148"/>
+        <group_elm idref="ID1591820153"/>
+        <group_elm idref="ID1591820155"/>
+        <group_elm idref="ID1591820154"/>
+        <group_elm idref="ID1591820156"/>
+        <group_elm idref="ID1591820157"/>
+        <group_elm idref="ID1591820158"/>
+        <group_elm idref="ID1591820160"/>
+        <group_elm idref="ID1591820159"/>
+        <group_elm idref="ID1429597939"/>
+        <group_elm idref="ID1429597940"/>
+        <group_elm idref="ID1429939720"/>
+        <group_elm idref="ID1591820256"/>
+        <group_elm idref="ID1591820257"/>
+        <group_elm idref="ID1429615148"/>
+        <group_elm idref="ID1429615149"/>
+        <group_elm idref="ID1429615150"/>
+        <group_elm idref="ID1591820248"/>
+        <group_elm idref="ID1591862831"/>
+        <group_elm idref="ID1591820249"/>
+        <group_elm idref="ID1429601692"/>
+        <group_elm idref="ID1429601693"/>
+        <group_elm idref="ID1429601694"/>
+        <group_elm idref="ID1591819442"/>
+        <group_elm idref="ID1591819443"/>
+        <group_elm idref="ID1591819283"/>
+        <group_elm idref="ID1591819251"/>
+        <group_elm idref="ID1429596369"/>
+        <group_elm idref="ID1429596370"/>
+        <group_elm idref="ID1429596371"/>
+        <group_elm idref="ID1591819416"/>
+        <group_elm idref="ID1591819417"/>
       </group>
       <group id="ID1591819366"
              name="SendCanCommit">
@@ -2177,6 +2209,7 @@ else empty</text>
         <group_elm idref="ID1591819634"/>
         <group_elm idref="ID1591819636"/>
         <group_elm idref="ID1591819639"/>
+        <group_elm idref="ID1591855667"/>
         <group_elm idref="ID1591819640"/>
         <group_elm idref="ID1591819641"/>
         <group_elm idref="ID1591819642"/>
@@ -2189,6 +2222,26 @@ else empty</text>
         <group_elm idref="ID1429596371"/>
         <group_elm idref="ID1591819725"/>
         <group_elm idref="ID1591819726"/>
+        <group_elm idref="ID1429597939"/>
+        <group_elm idref="ID1429597940"/>
+        <group_elm idref="ID1429939720"/>
+        <group_elm idref="ID1591819733"/>
+        <group_elm idref="ID1591819734"/>
+        <group_elm idref="ID1429615148"/>
+        <group_elm idref="ID1429615149"/>
+        <group_elm idref="ID1429615150"/>
+        <group_elm idref="ID1591819741"/>
+        <group_elm idref="ID1591819742"/>
+        <group_elm idref="ID1429601692"/>
+        <group_elm idref="ID1429601693"/>
+        <group_elm idref="ID1429601694"/>
+        <group_elm idref="ID1591819749"/>
+        <group_elm idref="ID1591819750"/>
+        <group_elm idref="ID1591819635"/>
+        <group_elm idref="ID1591819614"/>
+        <group_elm idref="ID1591819645"/>
+        <group_elm idref="ID1591819611"/>
+        <group_elm idref="ID1591819612"/>
       </group>
       <group id="ID1591819691"
              name="ReceiveCanCommit">
@@ -2201,28 +2254,65 @@ else empty</text>
         <group_elm idref="ID1591819646"/>
         <group_elm idref="ID1591819647"/>
         <group_elm idref="ID1591819648"/>
+        <group_elm idref="ID1429596369"/>
+        <group_elm idref="ID1429596370"/>
+        <group_elm idref="ID1429596371"/>
+        <group_elm idref="ID1591819725"/>
+        <group_elm idref="ID1591819726"/>
+        <group_elm idref="ID1429597939"/>
+        <group_elm idref="ID1429597940"/>
+        <group_elm idref="ID1429939720"/>
+        <group_elm idref="ID1591819733"/>
+        <group_elm idref="ID1591819734"/>
+        <group_elm idref="ID1591819635"/>
+        <group_elm idref="ID1591819645"/>
+        <group_elm idref="ID1591819611"/>
+        <group_elm idref="ID1591819612"/>
       </group>
       <group id="ID1591820189"
              name="CollectVotes">
         <group_elm idref="ID1591820137"/>
         <group_elm idref="ID1591820109"/>
-        <group_elm idref="ID1591820115"/>
         <group_elm idref="ID1591820147"/>
-        <group_elm idref="ID1591820153"/>
         <group_elm idref="ID1591820155"/>
         <group_elm idref="ID1591820156"/>
-        <group_elm idref="ID1591820158"/>
         <group_elm idref="ID1591820160"/>
         <group_elm idref="ID1591819247"/>
         <group_elm idref="ID1591819248"/>
         <group_elm idref="ID1591819249"/>
         <group_elm idref="ID1591820235"/>
         <group_elm idref="ID1591834709"/>
-        <group_elm idref="ID1591820239"/>
         <group_elm idref="ID1591834710"/>
         <group_elm idref="ID1429597939"/>
         <group_elm idref="ID1429597940"/>
         <group_elm idref="ID1429939720"/>
+        <group_elm idref="ID1591820157"/>
+        <group_elm idref="ID1591820148"/>
+        <group_elm idref="ID1591820249"/>
+        <group_elm idref="ID1429615148"/>
+        <group_elm idref="ID1429615149"/>
+        <group_elm idref="ID1429615150"/>
+        <group_elm idref="ID1591820248"/>
+        <group_elm idref="ID1591862831"/>
+        <group_elm idref="ID1591820138"/>
+        <group_elm idref="ID1591820110"/>
+        <group_elm idref="ID1591820228"/>
+        <group_elm idref="ID1591819250"/>
+        <group_elm idref="ID1591819251"/>
+        <group_elm idref="ID1591819252"/>
+        <group_elm idref="ID1591820227"/>
+        <group_elm idref="ID1591820115"/>
+        <group_elm idref="ID1591820118"/>
+        <group_elm idref="ID1592137828"/>
+        <group_elm idref="ID1591820120"/>
+        <group_elm idref="ID1591820116"/>
+        <group_elm idref="ID1591820117"/>
+        <group_elm idref="ID1591820153"/>
+        <group_elm idref="ID1591820154"/>
+        <group_elm idref="ID1591820158"/>
+        <group_elm idref="ID1591820159"/>
+        <group_elm idref="ID1591820239"/>
+        <group_elm idref="ID1592137842"/>
         <group_elm idref="ID1591820256"/>
         <group_elm idref="ID1591820257"/>
       </group>
@@ -2230,7 +2320,6 @@ else empty</text>
              name="Workers">
         <group_elm idref="ID1591819604"/>
         <group_elm idref="ID1591819607"/>
-        <group_elm idref="ID1591834694"/>
         <group_elm idref="ID1591819609"/>
         <group_elm idref="ID1591819605"/>
         <group_elm idref="ID1591819606"/>
@@ -2241,7 +2330,6 @@ else empty</text>
         <group_elm idref="ID1591819643"/>
         <group_elm idref="ID1591819598"/>
         <group_elm idref="ID1591819601"/>
-        <group_elm idref="ID1591834693"/>
         <group_elm idref="ID1591819603"/>
         <group_elm idref="ID1591819599"/>
         <group_elm idref="ID1591819600"/>
@@ -2254,6 +2342,7 @@ else empty</text>
         <group_elm idref="ID1591819633"/>
         <group_elm idref="ID1591819636"/>
         <group_elm idref="ID1591819639"/>
+        <group_elm idref="ID1591855667"/>
         <group_elm idref="ID1591819640"/>
         <group_elm idref="ID1591819641"/>
         <group_elm idref="ID1591819637"/>
@@ -2515,7 +2604,7 @@ Votes</text>
                    currentcyckle="2"/>
         <transend idref="ID1591826098"/>
         <placeend idref="ID1591826104"/>
-        <annot id="ID1591834711">
+        <annot id="ID1592137843">
           <posattr x="-351.000000"
                    y="112.000000"/>
           <fillattr colour="White"
@@ -2547,7 +2636,7 @@ Votes</text>
                    currentcyckle="2"/>
         <transend idref="ID1591826098"/>
         <placeend idref="ID1591826107"/>
-        <annot id="ID1591834712">
+        <annot id="ID1592137844">
           <posattr x="-351.000000"
                    y="32.000000"/>
           <fillattr colour="White"
@@ -3175,11 +3264,6 @@ else empty</text>
           <text>&lt;same as model&gt;</text>
         </value>
       </option>
-      <option name="extensions.10006.enable">
-        <value>
-          <boolean>true</boolean>
-        </value>
-      </option>
       <option name="extensions.10005.enable">
         <value>
           <boolean>true</boolean>
@@ -3190,12 +3274,17 @@ else empty</text>
           <boolean>true</boolean>
         </value>
       </option>
+      <option name="extensions.10003.enable">
+        <value>
+          <boolean>true</boolean>
+        </value>
+      </option>
       <option name="extensions.10001.enable">
         <value>
           <boolean>true</boolean>
         </value>
       </option>
-      <option name="extensions.10003.enable">
+      <option name="extensions.10006.enable">
         <value>
           <boolean>true</boolean>
         </value>
@@ -3400,8 +3489,8 @@ else empty</text>
       <cpnbinder id="ID1530011512"
                  x="233"
                  y="-12"
-                 width="1044"
-                 height="605">
+                 width="1128"
+                 height="650">
         <sheets>
           <cpnsheet id="ID1591818965"
                     panx="0.000000"
@@ -3413,16 +3502,16 @@ else empty</text>
             </zorder>
           </cpnsheet>
           <cpnsheet id="ID1591819127"
-                    panx="-26.250000"
-                    pany="56.000000"
-                    zoom="1.000000"
+                    panx="-90.040000"
+                    pany="-19.160000"
+                    zoom="0.800000"
                     instance="ID2149">
             <zorder>
-              <position value="4"/>
+              <position value="6"/>
+              <position value="1"/>
               <position value="2"/>
               <position value="3"/>
-              <position value="1"/>
-              <position value="6"/>
+              <position value="4"/>
               <position value="5"/>
               <position value="0"/>
             </zorder>

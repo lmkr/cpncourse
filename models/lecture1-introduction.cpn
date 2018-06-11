@@ -1614,7 +1614,7 @@ Acknowledgements</text>
                    currentcyckle="2"/>
         <transend idref="ID1429909289"/>
         <placeend idref="ID1429909286"/>
-        <annot id="ID1530012591">
+        <annot id="ID1530024610">
           <posattr x="-158.000000"
                    y="133.000000"/>
           <fillattr colour="White"
@@ -1646,7 +1646,7 @@ Acknowledgements</text>
                    currentcyckle="2"/>
         <transend idref="ID1429909289"/>
         <placeend idref="ID1429909280"/>
-        <annot id="ID1530012592">
+        <annot id="ID1530024611">
           <posattr x="-158.000000"
                    y="51.000000"/>
           <fillattr colour="White"
@@ -1730,7 +1730,7 @@ Acknowledgements</text>
           <textattr colour="Black"
                     bold="false"/>
         </bendpoint>
-        <annot id="ID1530012593">
+        <annot id="ID1530024612">
           <posattr x="-194.000000"
                    y="-281.000000"/>
           <fillattr colour="White"
@@ -1922,7 +1922,7 @@ Acknowledgements</text>
                    currentcyckle="2"/>
         <transend idref="ID1429918629"/>
         <placeend idref="ID1429909280"/>
-        <annot id="ID1530012594">
+        <annot id="ID1530024613">
           <posattr x="-158.000000"
                    y="-38.000000"/>
           <fillattr colour="White"
@@ -1995,7 +1995,6 @@ Acknowledgements</text>
         <group_elm idref="ID1429909321"/>
         <group_elm idref="ID1429909289"/>
         <group_elm idref="ID1429909292"/>
-        <group_elm idref="ID1530012579"/>
         <group_elm idref="ID1429909294"/>
         <group_elm idref="ID1429909290"/>
         <group_elm idref="ID1429909291"/>
@@ -2567,7 +2566,7 @@ OneVote</text>
                    currentcyckle="2"/>
         <transend idref="ID1429918645"/>
         <placeend idref="ID1429918662"/>
-        <annot id="ID1530012595">
+        <annot id="ID1530024614">
           <posattr x="-158.000000"
                    y="21.000000"/>
           <fillattr colour="White"
@@ -2663,7 +2662,7 @@ OneVote</text>
                    currentcyckle="2"/>
         <transend idref="ID1429940726"/>
         <placeend idref="ID1429918662"/>
-        <annot id="ID1530012596">
+        <annot id="ID1530024615">
           <posattr x="-51.000000"
                    y="120.000000"/>
           <fillattr colour="White"
@@ -3825,7 +3824,7 @@ else empty</text>
                   filled="false"/>
         <lineattr colour="Black"
                   thick="1"
-                  type="Solid"/>
+                  type="solid"/>
         <textattr colour="Black"
                   bold="false"/>
         <text>T1</text>
@@ -4032,7 +4031,7 @@ else empty</text>
                   filled="false"/>
         <lineattr colour="Black"
                   thick="1"
-                  type="Solid"/>
+                  type="solid"/>
         <textattr colour="Black"
                   bold="false"/>
         <text>T2</text>
@@ -4210,7 +4209,7 @@ else empty</text>
           <boolean>true</boolean>
         </value>
       </option>
-      <option name="extensions.10001.enable">
+      <option name="extensions.10002.enable">
         <value>
           <boolean>true</boolean>
         </value>
@@ -4220,12 +4219,12 @@ else empty</text>
           <boolean>true</boolean>
         </value>
       </option>
-      <option name="extensions.10006.enable">
+      <option name="extensions.10001.enable">
         <value>
           <boolean>true</boolean>
         </value>
       </option>
-      <option name="extensions.10002.enable">
+      <option name="extensions.10006.enable">
         <value>
           <boolean>true</boolean>
         </value>
@@ -4426,48 +4425,7 @@ else empty</text>
         </value>
       </option>
     </options>
-    <binders>
-      <cpnbinder id="ID1530024528"
-                 x="935"
-                 y="96"
-                 width="319"
-                 height="390">
-        <sheets>
-          <cpnsheet id="ID1530014588"
-                    panx="297.187500"
-                    pany="163.187500"
-                    zoom="1.562500"
-                    instance="ID1530014241">
-            <zorder>
-              <position value="0"/>
-            </zorder>
-          </cpnsheet>
-        </sheets>
-        <zorder>
-          <position value="0"/>
-        </zorder>
-      </cpnbinder>
-      <cpnbinder id="ID1530020790"
-                 x="1262"
-                 y="94"
-                 width="349"
-                 height="390">
-        <sheets>
-          <cpnsheet id="ID1530017233"
-                    panx="162.875000"
-                    pany="209.625000"
-                    zoom="1.562500"
-                    instance="ID1530014410">
-            <zorder>
-              <position value="0"/>
-            </zorder>
-          </cpnsheet>
-        </sheets>
-        <zorder>
-          <position value="0"/>
-        </zorder>
-      </cpnbinder>
-    </binders>
+    <binders/>
     <monitorblock name="Monitors"/>
     <IndexNode expanded="true">
       <IndexNode expanded="false"/>
@@ -4534,9 +4492,7 @@ else empty</text>
           <IndexNode expanded="false"/>
         </IndexNode>
       </IndexNode>
-      <IndexNode expanded="false">
-        <IndexNode expanded="false"/>
-      </IndexNode>
+      <IndexNode expanded="false"/>
       <IndexNode expanded="true">
         <IndexNode expanded="false">
           <IndexNode expanded="true"/>
@@ -4567,7 +4523,7 @@ else empty</text>
           <IndexNode expanded="true"/>
           <IndexNode expanded="true"/>
         </IndexNode>
-        <IndexNode expanded="true">
+        <IndexNode expanded="false">
           <IndexNode expanded="true"/>
           <IndexNode expanded="true"/>
           <IndexNode expanded="true"/>
