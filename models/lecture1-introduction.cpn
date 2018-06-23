@@ -1614,7 +1614,7 @@ Acknowledgements</text>
                    currentcyckle="2"/>
         <transend idref="ID1429909289"/>
         <placeend idref="ID1429909286"/>
-        <annot id="ID1530024610">
+        <annot id="ID1592227954">
           <posattr x="-158.000000"
                    y="133.000000"/>
           <fillattr colour="White"
@@ -1646,7 +1646,7 @@ Acknowledgements</text>
                    currentcyckle="2"/>
         <transend idref="ID1429909289"/>
         <placeend idref="ID1429909280"/>
-        <annot id="ID1530024611">
+        <annot id="ID1592227955">
           <posattr x="-158.000000"
                    y="51.000000"/>
           <fillattr colour="White"
@@ -1730,7 +1730,7 @@ Acknowledgements</text>
           <textattr colour="Black"
                     bold="false"/>
         </bendpoint>
-        <annot id="ID1530024612">
+        <annot id="ID1592227956">
           <posattr x="-194.000000"
                    y="-281.000000"/>
           <fillattr colour="White"
@@ -1922,7 +1922,7 @@ Acknowledgements</text>
                    currentcyckle="2"/>
         <transend idref="ID1429918629"/>
         <placeend idref="ID1429909280"/>
-        <annot id="ID1530024613">
+        <annot id="ID1592227957">
           <posattr x="-158.000000"
                    y="-38.000000"/>
           <fillattr colour="White"
@@ -1999,9 +1999,7 @@ Acknowledgements</text>
         <group_elm idref="ID1429909290"/>
         <group_elm idref="ID1429909291"/>
         <group_elm idref="ID1429909307"/>
-        <group_elm idref="ID1530012591"/>
         <group_elm idref="ID1429909309"/>
-        <group_elm idref="ID1530012592"/>
         <group_elm idref="ID1429909322"/>
         <group_elm idref="ID1429909323"/>
       </group>
@@ -2566,7 +2564,7 @@ OneVote</text>
                    currentcyckle="2"/>
         <transend idref="ID1429918645"/>
         <placeend idref="ID1429918662"/>
-        <annot id="ID1530024614">
+        <annot id="ID1592227958">
           <posattr x="-158.000000"
                    y="21.000000"/>
           <fillattr colour="White"
@@ -2662,7 +2660,7 @@ OneVote</text>
                    currentcyckle="2"/>
         <transend idref="ID1429940726"/>
         <placeend idref="ID1429918662"/>
-        <annot id="ID1530024615">
+        <annot id="ID1592227959">
           <posattr x="-51.000000"
                    y="120.000000"/>
           <fillattr colour="White"
@@ -4204,6 +4202,11 @@ else empty</text>
           <text>&lt;same as model&gt;</text>
         </value>
       </option>
+      <option name="extensions.10006.enable">
+        <value>
+          <boolean>true</boolean>
+        </value>
+      </option>
       <option name="extensions.10005.enable">
         <value>
           <boolean>true</boolean>
@@ -4214,17 +4217,12 @@ else empty</text>
           <boolean>true</boolean>
         </value>
       </option>
-      <option name="extensions.10003.enable">
-        <value>
-          <boolean>true</boolean>
-        </value>
-      </option>
       <option name="extensions.10001.enable">
         <value>
           <boolean>true</boolean>
         </value>
       </option>
-      <option name="extensions.10006.enable">
+      <option name="extensions.10003.enable">
         <value>
           <boolean>true</boolean>
         </value>
