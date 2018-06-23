@@ -10,7 +10,7 @@ You may want to use the CPN model of the two-phase commit transaction protocol d
 
 The Paxos protocol was originally developed by Lamport and there are many research papers that explain the concepts and operation of the protocol. In this assignment, you are to use the description of the Paxos protocol provided in:
 
->[Mel13] H. Meling and L. Jehl: Tutorial Summary: Paxos Explained from Scratch. In Proc. of International Conference on Principles of >Distributed Systems, Vol. 8304 of Springer Lecture Notes in Computer Science, pp. 1-10, Springer, 2013.
+>[Mel13] H. Meling and L. Jehl: Tutorial Summary: Paxos Explained from Scratch. In Proc. of International Conference on Principles of Distributed Systems, Vol. 8304 of Springer Lecture Notes in Computer Science, pp. 1-10, Springer, 2013.
 
 and available in the assignment folder  as a starting point for constructing the CPN model. 
 
