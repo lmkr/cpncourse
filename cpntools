@@ -1,0 +1,4 @@
+Tips and CPN Tools
+
+First, try deleting stale preferences.xml files. It is located in the user settings directory, often C:\Documents and Settings\USER\Application Data\CPN Tools or C:\Users\USER\AppData\Roaming\CPN Tools, depending on the version of Windows.
+On Lenovo-PC: Users/Lars/AppData/Roaming/CPN Tools
