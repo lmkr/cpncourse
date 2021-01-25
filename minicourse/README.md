@@ -22,7 +22,7 @@ Note that there is some overlap between the overview paper and the book chapter.
 - Do some basic simulation and editing using the two-phase commit example model: https://github.com/lmkr/cpncourse/blob/master/models/lecture1-introduction.cpn
 
 
-## Module 2: Place/Transition
+## Module 2: Place/Transition Nets
 
 - Syntax and semantics of Place/Transition Nets
 - Basic PT-net modelling and simulation exercises in CPNs
