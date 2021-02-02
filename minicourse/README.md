@@ -1,6 +1,6 @@
 # Plan for PCS911 - Spring 2021
 
-## Module 1: Introduction to CPNs and CPN Tools
+## Lecture 1: Overview of Coloured Petri Nets and CPN Tools
 
 ### Plan
 
@@ -21,27 +21,36 @@ Note that there is some overlap between the overview paper and the book chapter.
 - Clone this Git repository to get easy access to the course material: https://github.com/lmkr/cpncourse
 - Do some basic simulation and editing using the two-phase commit example model: https://github.com/lmkr/cpncourse/blob/master/models/lecture1-introduction.cpn
 
+## Lecture 2: Place/Transition Nets
 
-## Module 2: Place/Transition Nets
+### Plan
 
 - Syntax and semantics of Place/Transition Nets
-- Basic PT-net modelling and simulation exercises in CPNs
 
-## Module 3: Coloured Petri Nets
+### Reading material
+
+- Chapter 1-3 (pages 1-34) in Wolfgang Reisig: A Primer in Petri Net Design. Springer-Verlag, 1992.
+- Read the description of the two-phase commit protocol in https://github.com/lmkr/cpncourse/blob/master/papers/cpn-acm-2015.pdf
+
+### Tasks
+
+- Basic PT-net modelling and simulation exercises in CPN Tools
+
+## Lecture 3: Coloured Petri Nets
 
 - Syntax and semantics of CPNs
 - Basic CPN modelling and simulation exercises in CPNs
 
-## Module 4: The CPN ML language
+## Lecture 4: The CPN ML language
 
 - The CPN ML programming language
 
-## Module 5: Hierarchical Coloured Petri Nets
+## Lecture 5: Hierarchical Coloured Petri Nets
 
-## Module 6: State spaces and verification
+## Lecture 6: State spaces and verification
 
-## Module 7: Timed Coloured Petri Nets
+## Lecture 7: Timed Coloured Petri Nets
 
-## Module 8: Introduction to project works
+## Lecture 8: Introduction to project works
 
 Start on the modelling and simulation projects with CPNs.
