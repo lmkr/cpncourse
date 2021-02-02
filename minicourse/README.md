@@ -29,7 +29,7 @@ Note that there is some overlap between the overview paper and the book chapter.
 
 ### Reading material
 
-- Chapter 1-3 (pages 1-34) in Wolfgang Reisig: A Primer in Petri Net Design. Springer-Verlag, 1992.
+- Chapter 1-3 (pages 1-34) in Wolfgang Reisig: A Primer in Petri Net Design. Springer-Verlag, 1992. **(will be provided to course participants)**
 - Read the description of the two-phase commit protocol in https://github.com/lmkr/cpncourse/blob/master/papers/cpn-acm-2015.pdf
 
 ### Tasks
