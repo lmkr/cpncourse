@@ -8,12 +8,19 @@
 - Overview of Coloured Petri Nets
 - Installation and basic use of CPN Tools
 
+**Slides:** https://github.com/lmkr/cpncourse/blob/master/minicourse/lecture1-introductionoverview.pdf
+
 ### Reading material
 
 - Overview paper of CPNs: https://github.com/lmkr/cpncourse/blob/master/papers/cpn-acm-2015.pdf
 - Chapter 1 of the CPN Book: https://github.com/lmkr/cpnbook/blob/master/chapters/chapter1.pdf
 
 Note that there is some overlap between the overview paper and the book chapter. We will cover the details contained in the overview paper later on in the mini-course.
+
+### CPN Tools - Demo videos
+
+- Simulation in CPN Tools: https://www.youtube.com/watch?v=ZRzHi1eW1QE
+- Editing in CPN Tools: https://www.youtube.com/watch?v=Vd_3o2KF2Oo
 
 ### Tasks
 
