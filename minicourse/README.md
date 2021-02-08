@@ -46,8 +46,21 @@ Note that there is some overlap between the overview paper and the book chapter.
 
 ## Lecture 3: Coloured Petri Nets
 
+### Plan
+
 - Syntax and semantics of CPNs
-- Basic CPN modelling and simulation exercises in CPNs
+- Example CPN models
+    - Two-phase commit protocol model: https://github.com/lmkr/cpncourse/blob/master/models/lecture3-cpns.cpn
+    - Stop-wait communication protocol: https://github.com/lmkr/cpnbook/tree/master/models/chapter2
+
+### Reading
+
+- Overview paper of CPNs: https://github.com/lmkr/cpncourse/blob/master/papers/cpn-acm-2015.pdf
+- Chapter 2 of the CPN Book: https://github.com/lmkr/cpnbook/blob/master/chapters/chapter2.pdf
+
+### Tasks
+
+- Basic CPN modelling and simulation exercises in CPNs: https://github.com/lmkr/cpnbook/blob/master/projects/project0.md
 
 ## Lecture 4: The CPN ML language
 
