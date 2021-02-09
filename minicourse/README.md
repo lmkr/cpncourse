@@ -43,6 +43,9 @@ Note that there is some overlap between the overview paper and the book chapter.
 ### Tasks
 
 - Basic PT-net modelling and simulation exercises in CPN Tools
+  - Model the two-phase commit protocol with PT-nets for two workers (see slides)
+  - Incrementally add the different parts of the model
+  - Conduct simulation for each increment to check that the model is properly operating
 
 ## Lecture 3: Coloured Petri Nets
 
