@@ -80,3 +80,10 @@ Note that there is some overlap between the overview paper and the book chapter.
 ## Lecture 8: Introduction to project works
 
 Start on the modelling and simulation projects with CPNs.
+
+Papers related to application of CPNs
+
+- Application of Coloured Petri Nets in System Development: https://github.com/lmkr/cpncourse/blob/master/papers/cpn-acpn-2003.pdf
+- Applications of Coloured Petri Nets for Functional Validation of Protocol Designs https://github.com/lmkr/cpncourse/blob/master/papers/cpn-topnoc-2013.pdf
+- Papers A and B in: https://github.com/lmkr/cpncourse/blob/master/papers/rui-wang-thesis.pdf
+- Verification of the MQTT IoT Protocol using Property-specific CTL Sweep-Line Algorithms: https://github.com/lmkr/cpncourse/blob/master/papers/cpn-topnoc-mqtt.pdf
