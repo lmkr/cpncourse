@@ -58,6 +58,9 @@ Note that there is some overlap between the overview paper and the book chapter.
     - Two-phase commit protocol model: https://github.com/lmkr/cpncourse/blob/master/models/lecture3-cpns.cpn
     - Stop-wait communication protocol: https://github.com/lmkr/cpnbook/tree/master/models/chapter2
 
+**Slides:**
+https://github.com/lmkr/cpncourse/blob/master/minicourse/lecture3-cpns.pdf
+
 ### Reading
 
 - Overview paper of CPNs: https://github.com/lmkr/cpncourse/blob/master/papers/cpn-acm-2015.pdf
