@@ -38,7 +38,7 @@ Note that there is some overlap between the overview paper and the book chapter.
 
 ### Reading material
 
-- Chapter 1-3 (pages 1-34) in Wolfgang Reisig: A Primer in Petri Net Design. Springer-Verlag, 1992. **(will be provided to course participants)**
+- Chapter 1-3 (pages 1-34) in Wolfgang Reisig: A Primer in Petri Net Design. Springer-Verlag, 1992 **(will be provided to course participants)**
 - Read the description of the two-phase commit protocol in https://github.com/lmkr/cpncourse/blob/master/papers/cpn-acm-2015.pdf
 - Brauer and Reisig: Carl Adam Petri and Petri Nets **(will be provided to course participants)**
 
@@ -69,7 +69,19 @@ Note that there is some overlap between the overview paper and the book chapter.
 
 ## Lecture 4: The CPN ML language
 
+### Plan
+
 - The CPN ML programming language
+
+### Reading
+
+- Chapter 3 of the CPN Book **(handout)**
+- Implementing Coloured Petri Nets
+Using a Functional Programming Language: https://github.com/lmkr/cpncourse/blob/master/papers/cpn-hosc-2004.pdf
+
+### Tasks
+
+- How to work efficiently with CPN ML functions and code in CPN models: https://www.youtube.com/watch?v=ZXreGXdrEL8&t=16s
 
 ## Lecture 5: Hierarchical Coloured Petri Nets
 
