@@ -69,6 +69,7 @@ https://github.com/lmkr/cpncourse/blob/master/minicourse/lecture3-cpns.pdf
 ### Tasks
 
 - Basic CPN modelling and simulation exercises in CPNs: https://github.com/lmkr/cpnbook/blob/master/projects/project0.md
+- Advanced exercises: https://github.com/lmkr/cpnbook/blob/master/projects/project1.md
 
 ## Lecture 4: The CPN ML language
 
@@ -82,17 +83,29 @@ https://github.com/lmkr/cpncourse/blob/master/minicourse/lecture3-cpns.pdf
 - Implementing Coloured Petri Nets
 Using a Functional Programming Language: https://github.com/lmkr/cpncourse/blob/master/papers/cpn-hosc-2004.pdf
 
-### Tasks
+### Examples and models
 
 - How to work efficiently with CPN ML functions and code in CPN models: https://www.youtube.com/watch?v=ZXreGXdrEL8&t=16s
+- https://github.com/lmkr/cpnbook/blob/master/models/chapter2/2-10NondeterministicProtocol.cpn
+- https://github.com/lmkr/cpnbook/tree/master/models/chapter3
 
 ## Lecture 5: Hierarchical Coloured Petri Nets
 
-## Lecture 6: State spaces and verification
+### Plan
 
-## Lecture 7: Timed Coloured Petri Nets
+- Modules and Hierarchical Coloured Petri nets
 
-## Lecture 8: Introduction to project works
+### Reading
+
+- Chapter 5 of the CPN Book **(handout)**
+
+### Example models
+
+- Hierarchical stop-and-wait protocol: https://github.com/lmkr/cpnbook/blob/master/models/chapter5/5-1HierarhicalProtocol.cpn
+- Hierarchical two-phase commit protocol: https://github.com/lmkr/cpncourse/blob/master/models/lecture4-cpnmodules.cpn
+- Parametric variants of the stop-and-wait protocol: https://github.com/lmkr/cpnbook/tree/master/models/chapter5
+
+## Lecture 6: Kick-off on project work on modelling and validation with CPNs
 
 Start on the modelling and simulation projects with CPNs.
 
@@ -102,3 +115,34 @@ Papers related to application of CPNs
 - Applications of Coloured Petri Nets for Functional Validation of Protocol Designs https://github.com/lmkr/cpncourse/blob/master/papers/cpn-topnoc-2013.pdf
 - Papers A and B in: https://github.com/lmkr/cpncourse/blob/master/papers/rui-wang-thesis.pdf
 - Verification of the MQTT IoT Protocol using Property-specific CTL Sweep-Line Algorithms: https://github.com/lmkr/cpncourse/blob/master/papers/cpn-topnoc-mqtt.pdf
+
+## Lecture 7: State spaces and verification
+
+### Plan
+
+- State space exploration of CPN models and verification of behavioral properties
+
+### Reading
+
+- Chapter 7 of the CPN Book **(handout)**
+
+### Example models and exercises
+
+- https://github.com/lmkr/cpnbook/tree/master/models/chapter7
+- Verification of stop-and-wait protocols: https://github.com/lmkr/cpnbook/blob/master/projects/project2.md
+
+## Lecture 8: Timed Coloured Petri Nets
+
+### Plan
+
+- Modelling time in Coloured Petri Nets
+- Simulation-based performance analysis with Coloured Petri Nets
+
+### Reading
+
+- Chapter 10 of the CPN Book **(handout)**
+
+### Example models and exercises
+
+- https://github.com/lmkr/cpnbook/tree/master/models/chapter10 
+- Performance analysis of stop-and-wait protocols: https://github.com/lmkr/cpnbook/blob/master/projects/project3.md
