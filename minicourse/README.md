@@ -85,7 +85,7 @@ Using a Functional Programming Language: https://github.com/lmkr/cpncourse/blob/
 
 ### Examples and models
 
-- CPN ML documentation: http://cpntools.org/2018/01/09/colored-nets/ 
+- CPN ML documentation: http://cpntools.org/2018/01/09/colored-nets/
 - How to work efficiently with CPN ML functions and code in CPN models: https://www.youtube.com/watch?v=ZXreGXdrEL8&t=16s
 - https://github.com/lmkr/cpnbook/blob/master/models/chapter2/2-10NondeterministicProtocol.cpn
 - https://github.com/lmkr/cpnbook/tree/master/models/chapter3
@@ -95,6 +95,8 @@ Using a Functional Programming Language: https://github.com/lmkr/cpncourse/blob/
 ### Plan
 
 - Modules and Hierarchical Coloured Petri nets
+
+**Slides** https://github.com/lmkr/cpncourse/blob/master/minicourse/lecture5-modules.pdf
 
 ### Reading
 
