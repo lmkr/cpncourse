@@ -11,7 +11,8 @@ The theory-tool module introduces the syntax and semantics of the CPN modelling 
 
 ## Slides and CPN models
 
-- Introduction and overview
+- [Slides](slides/)
+- [Models](models/)
 
 ### Theory-Tool
 
@@ -27,9 +28,10 @@ The theory-tool module introduces the syntax and semantics of the CPN modelling 
 - Part 7: Hands-on experiments with simulation of CPN models in CPN Tools
 - Part 8: Hands-on experiments with editing and construction of CPN models in CPN Tools
 
-## Background reading and papers
+## Background papers
 
-- TO BE ADDED
+- Papers: https://github.com/lmkr/cpncourse/tree/master/papers
+- CPN Book: https://github.com/lmkr/cpnbook 
 
 ## Lecturer
 
