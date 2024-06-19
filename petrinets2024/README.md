@@ -1,7 +1,4 @@
-# Advanced Course on Petri Nets 2023
-
-https://acpn2023.mat.umk.pl
-
+# Petri Nets Course 2024 - Coloured Petri Nets 
 
 ## Coloured Petri Nets for Concurrent Software Systems Engineering 
 
@@ -14,19 +11,19 @@ The theory-tool module introduces the syntax and semantics of the CPN modelling 
 - [Slides](slides/)
 - [Models](models/)
 
-### Theory-Tool
+### Part 1: Theory-Tool
 
-- Part 1: Motivation and overview of the Coloured Petri Nets modelling language
-- Part 2: Background on Coloured Petri Nets: From Place/Transition Nets to Coloured Petri Nets
-- Part 3: Syntax and semantics of the basic constructs of Coloured Petri Nets
-- Part 4: Modules for hierarchical structuring of large Coloured Petri Nets models
+- Part 1a: Motivation and overview of the Coloured Petri Nets modelling language
+- Part 1b: Background on Coloured Petri Nets: From Place/Transition Nets to Coloured Petri Nets
+- Part 1c: Syntax and semantics of the basic constructs of Coloured Petri Nets
+- Part 1d: Modules for hierarchical structuring of large Coloured Petri Nets models
 
 ### Case Study
 
-- Part 5: Two examples on the application of Coloured Petri nets within smart software systems
-- Part 6: Installation and getting started with CPN Tools
-- Part 7: Hands-on experiments with simulation of CPN models in CPN Tools
-- Part 8: Hands-on experiments with editing and construction of CPN models in CPN Tools
+- Part 2a: Two examples on the application of Coloured Petri nets within smart software systems
+- Part 2b: Installation and getting started with CPN Tools
+- Part 2c: Hands-on experiments with simulation of CPN models in CPN Tools
+- Part 2d: Hands-on experiments with editing and construction of CPN models in CPN Tools
 
 ## Background papers
 
