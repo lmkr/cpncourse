@@ -6,11 +6,6 @@ Coloured Petri Nets (CPNs) is a high-level modelling language combining Petri Ne
 
 The theory-tool module introduces the syntax and semantics of the CPN modelling language, and shows how CPN Tools can be used for editing, simulation, and validation of CPN models. The module will also cover hierarchical CPNs allowing models to be structured as a collection of modules with interfaces providing support for scalability, abstraction, and maintainability. Examples of CPN models from recent projects in the domain of smart software systems will be demonstrated. The case-study module will provide the participants with hands-on skills for constructing and simulating CPN models using CPN Tools using representative example systems. Participants may also choose to work on an example system of their own choice and interest.
 
-## Slides and CPN models
-
-- [Slides](slides/)
-- [Models](models/)
-
 ### Part 1: Theory-Tool
 
 - Part 1a: Motivation and overview of the Coloured Petri Nets modelling language
