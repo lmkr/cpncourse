@@ -10,3 +10,5 @@ On Lenovo-PC: Users/Lars/AppData/Roaming/CPN Tools
 $ find . -print | grep preferences
 
 ./AppData/Roaming/CPN Tools/preferences.xml
+
+Restart of Windows has also resolved CPN Tools startup problems.
